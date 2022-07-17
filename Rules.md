@@ -4,7 +4,7 @@
 ### *I will code for at least an hour every day for the next 100 days.*
 
 #### Start Date
-June 16th, 2022. [PUT YOUR DATE HERE]
+June 16th, 2022.
 
 ## Additional Rules
 1. I will post about my progress every day -> using the hashtag #100DaysOfCode
@@ -17,4 +17,3 @@ June 16th, 2022. [PUT YOUR DATE HERE]
 ## Contents
 * [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
