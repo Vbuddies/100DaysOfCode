@@ -13,6 +13,14 @@
 
 
 ### Day 2: July 17, 2022
-**Today's Progress**: 
+**Today's Progress**: Started Work overhauling the Course Edit Page
 
-**Thoughts:** 
+**Thoughts:** CSS is not my strong suite and it shows, this particular overhaul is very css and style heavy. I can handle it no problem but it doesn't come as naturally or as quickly as writing code that performs functions and such.
+
+**What I Accomplished Today**:
+ * Began overhaul of Course Edit
+ * Moved Key-generation to its own component
+ * Fixed the keygen functions after migrating them
+ * Split key create and the list of keys into two side by side sections
+ * Converted list of keys into a table format and replace the links to copy and delete with font awesome icons
+
