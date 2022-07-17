@@ -22,3 +22,8 @@ Secondary Goals
   * Cybersecurity - White Hat Hacking
   * Stock/Crypto Bot Trading or Viewer
   * Umbrella Notifier - notify if I should bring an umbrella to work today
+
+
+**Check My Progress and the Rules Here**
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
