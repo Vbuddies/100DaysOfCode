@@ -24,3 +24,16 @@
  * Split key create and the list of keys into two side by side sections
  * Converted list of keys into a table format and replace the links to copy and delete with font awesome icons
 
+### Day 3: July 18, 2022
+** Today's Progress: Completed the Key-generation styling and Functionality
+
+**Thoughts:** Finished the keygen section, both the styling and the functionality.
+              It looks way better than it did, and I'm super happy with it.
+
+**What I Accomplished Today**:
+ * Filtered the date in the keygen table so only m/d/y is shown
+ * Moved around the key generation methods and inputs
+ * made labels smaller to increase focus to the inputs
+ * Moved Expire Date and Expire Time to be one line
+ * Moved the generation button over
+
