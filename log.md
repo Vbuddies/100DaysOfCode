@@ -27,8 +27,7 @@
 ### Day 3: July 18, 2022
 ** Today's Progress: Completed the Key-generation styling and Functionality
 
-**Thoughts:** Finished the keygen section, both the styling and the functionality.
-              It looks way better than it did, and I'm super happy with it.
+**Thoughts:** Finished the keygen section, both the styling and the functionality.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It looks way better than it did, and I'm super happy with it.
 
 **What I Accomplished Today**:
  * Filtered the date in the keygen table so only m/d/y is shown
