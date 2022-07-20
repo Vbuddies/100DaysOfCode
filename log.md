@@ -25,7 +25,7 @@
  * Converted list of keys into a table format and replace the links to copy and delete with font awesome icons
 
 ### Day 3: July 18, 2022
-** Today's Progress: Completed the Key-generation styling and Functionality
+**Today's Progress**: Completed the Key-generation styling and Functionality
 
 **Thoughts:** Finished the keygen section, both the styling and the functionality.<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It looks way better than it did, and I'm super happy with it.
 
@@ -36,3 +36,13 @@
  * Moved Expire Date and Expire Time to be one line
  * Moved the generation button over
 
+### Day 4: July 19, 2022
+**Today's Progress**: Moved Course Roster into its own component
+
+**Thoughts:** Today I handled both funcionality and styling.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Because it was similar to previous styling it went much quicker.
+
+**What I Accomplished Today**:
+ * Moved the Roster into a dedicated file
+ * Fixed the loading of the student roster after migration
+ * Fixed the styling of the grid, student view button, and label
