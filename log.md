@@ -46,3 +46,14 @@
  * Moved the Roster into a dedicated file
  * Fixed the loading of the student roster after migration
  * Fixed the styling of the grid, student view button, and label
+
+### Day 5: July 20, 2022
+**Today's Progress**: course lab list to dedicated component, remove student
+
+**Thoughts:** Today was a functionality and migration day.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Will need to complete function of both pages and lab styling.
+
+**What I Accomplished Today**:
+ * Added the ability to remove a student using the course edit roster list
+ * moved the course edit lab list to its own component
+ * Fixed the loading of the labs after migration
