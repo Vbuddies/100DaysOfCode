@@ -57,3 +57,16 @@
  * Added the ability to remove a student using the course edit roster list
  * moved the course edit lab list to its own component
  * Fixed the loading of the labs after migration
+
+### Day 6: July 21, 2022
+**Today's Progress**: Finished the course Lab list
+
+**Thoughts:** Everything went super quickly today both styling and functionality.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I got a lot done in a short amount of time.
+
+**What I Accomplished Today**:
+ * Finished styling of the Course Lab List
+ * Professor can add a lab from inside course edit
+ * Professor can delete a lab from inside course edit
+ * Professor can edit a lab from inside course edit
+ * Professor can go to a given lab by clicking on it
