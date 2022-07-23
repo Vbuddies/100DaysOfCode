@@ -83,3 +83,4 @@
  * Added the ability to set that newly downloaded picture as my desktop background
  * Added a bat script that runs the python script
  * added a login Task to my pc that runs the bat script
+ * All together it gives me a cool new Astronomy background every single day
