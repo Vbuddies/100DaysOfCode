@@ -70,3 +70,16 @@
  * Professor can delete a lab from inside course edit
  * Professor can edit a lab from inside course edit
  * Professor can go to a given lab by clicking on it
+
+### Day 7: July 22, 2022
+**Today's Progress**: Created a bat+python script to change my background every day
+
+**Thoughts:** Today I decided to write some bat and python scripts.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The script I wrote gets the Astronomy picture of the day,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and sets that as my background
+
+**What I Accomplished Today**:
+ * Wrote a python script to download Nasa's Astronomy Picture of the Day(APOD).
+ * Added the ability to set that newly downloaded picture as my desktop background
+ * Added a bat script that runs the python script
+ * added a login Task to my pc that runs the bat script
