@@ -84,3 +84,15 @@
  * Added a bat script that runs the python script
  * added a login Task to my pc that runs the bat script
  * All together it gives me a cool new Astronomy background every single day
+
+### Day 8: July 23, 2022
+**Today's Progress**: Today I moved the final section of course edit
+
+**Thoughts:** Moved the final section into it's own component, fixed styling & function
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Only need to add 2 more functions to the course roster component:
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The ability to add a student, & a student view button
+
+**What I Accomplished Today**:
+ * moved the course details section into its own component
+ * fixed the functions that broke after migration
+ * fixed the styling
