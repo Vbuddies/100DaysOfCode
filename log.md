@@ -100,8 +100,9 @@
 ### Day 9: July 24, 2022
 **Today's Progress**: Added the student view to Labs
 
-**Thoughts:** It could still use a little work, but its functional at the very least.
+**Thoughts:** It could still use a little work, 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;but its functional at the very least.
 
 **What I Accomplished Today**:
  * Added a student view to the labs page.
- * Added functionality to student view button in course edit.
+ * Added functionality to student view button.
